@@ -1,3 +1,6 @@
+## This function will clear the data from "Human Activity Recognition Using Smartphones Dataset - Version 1.0" 
+# and generate average of mean & std values for each subject and each activity
+# The working directory should point to the path of directory 'UCI HAR Dataset' where Samsung data file exist
 run_analysis <- function (){
 
 library(dplyr)

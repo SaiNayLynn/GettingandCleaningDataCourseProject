@@ -15,6 +15,7 @@ The assignment submission includes the following files:
 - 'subject_activity_mean.txt': the output file sample generated based on "Human Activity Recognition Using Smartphones Dataset - Version 1.0"
 
 ==================================================================
+
 Running the R program to perform data analysis
 
 R file name: run_analysis.R
@@ -24,4 +25,5 @@ Preparation before calling the run_analysis() function:
 - put the R file "run_analysis.R" into above directory
 - source("run_analysis.R")
 - run_analysis()
+
 ==================================================================
